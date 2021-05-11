@@ -10,5 +10,6 @@ Run this to get it to run:
 apt install git dialog
 git clone https://github.com/iAmInActions/raspbian-emulation-vnc-stuff
 cd raspbian-emulation-vnc-stuff
-chmod ./runme.sh
+chmod +x ./runme.sh
+./runme.sh
 ```
