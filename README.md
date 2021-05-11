@@ -8,7 +8,7 @@ Run this to get it to run:
 
 ```
 apt install git dialog
-git clone https://github.com/user_goes_here/link_to_repo_goes_here
-cd repo_name_goes_here
+git clone https://github.com/iAmInActions/raspbian-emulation-vnc-stuff
+cd raspbian-emulation-vnc-stuff
 chmod ./runme.sh
 ```
