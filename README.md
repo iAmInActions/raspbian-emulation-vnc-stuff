@@ -7,7 +7,7 @@ Credit to [qemu-raspbian-network](https://github.com/nachoparker/qemu-raspbian-n
 Run this to get it to run:
 
 ```
-apt install git
+apt install git dialog
 git clone https://github.com/user_goes_here/link_to_repo_goes_here
 cd repo_name_goes_here
 chmod ./runme.sh
