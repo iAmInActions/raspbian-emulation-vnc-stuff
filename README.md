@@ -10,5 +10,5 @@ Run this to get it to run:
 apt install git
 git clone https://github.com/user_goes_here/link_to_repo_goes_here
 cd repo_name_goes_here
-chmod ./qemu-pi.sh
+chmod ./runme.sh
 ```
