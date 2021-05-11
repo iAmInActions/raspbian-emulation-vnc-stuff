@@ -1,5 +1,6 @@
 #!/bin/bash
 # Insert dialog stuff here.
+chmod +x qemu-pi.sh
 
 HEIGHT=15
 WIDTH=40
